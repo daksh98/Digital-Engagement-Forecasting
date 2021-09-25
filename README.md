@@ -18,6 +18,10 @@ The google drive contains all relevant files and data required for the project
 
 *Predict Fan Engagement with a baseball player's digital content i.e. Social Media Engagement for players*
 
+## final report: 
+
+A 30 page report has been written outlining the Case study and showcasing our findings - in Project_report.pdf
+
 ## Files 
   - Notebooks each note book contains a particular model used in the report: 
     - ARNN model is contained in : AutoRegressiveNN.ipynb
