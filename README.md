@@ -1,4 +1,4 @@
-# MLB-predicting-social-media-engagement-
+# MLB Player Digital Engagement Forecasting
 
 ## COMP9417 Group Project: Kaggle Competition:
 
