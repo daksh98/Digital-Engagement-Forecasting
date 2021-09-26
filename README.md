@@ -1,5 +1,7 @@
 # MLB Player Digital Engagement Forecasting
 
+- Mark 29/30 
+
 ## COMP9417 Group Project: Kaggle Competition:
 
 [Link to Competition on Kaggle](https://www.kaggle.com/c/mlb-player-digital-engagement-forecasting)
