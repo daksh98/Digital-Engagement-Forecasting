@@ -1,8 +1,7 @@
 # MLB Player Digital Engagement Forecasting
 
-- Mark 29/30 
 
-## COMP9417 Group Project: Kaggle Competition:
+## Group Project: Kaggle Competition:
 
 [Link to Competition on Kaggle](https://www.kaggle.com/c/mlb-player-digital-engagement-forecasting)
 
@@ -12,9 +11,9 @@ The google drive contains all relevant files and data required for the project
 
 ## Members Include:
 
-* Akeef Taher Mamoon - z5114627
-* Daksh Mukhra - z5163002
-* Yvonne Thich - z5206070
+* Akeef Taher Mamoon 
+* Daksh Mukhra  
+* Yvonne Thich  
 
 ## Goal: 
 
