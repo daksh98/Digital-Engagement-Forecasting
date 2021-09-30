@@ -2,7 +2,9 @@
 
 Mark 29/30
 
-## Group Project COMP9417: Kaggle Competition:
+## Group Project COMP9417 Machinelearning and Data Mining: 
+
+Kaggle Competition:
 
 [Link to Competition on Kaggle](https://www.kaggle.com/c/mlb-player-digital-engagement-forecasting)
 
