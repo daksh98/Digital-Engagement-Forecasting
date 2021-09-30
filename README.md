@@ -2,7 +2,7 @@
 
 Mark 29/30
 
-## Group Project COMP9417 Machinelearning and Data Mining: 
+## Group Project COMP9417: 
 
 Kaggle Competition:
 
