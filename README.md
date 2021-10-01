@@ -4,7 +4,7 @@ Kaggle Competition:
 
 [Link to Competition on Kaggle](https://www.kaggle.com/c/mlb-player-digital-engagement-forecasting)
 
-[Link to google drive](https://drive.google.com/drive/folders/1eh8ZBC3ZmHNQyqN3aapM5OBH-it_O6Eu?usp=sharing)
+[Link to google drive](https://drive.google.com/file/d/1F5zvl8ftFPtUerAlJzbabGjJcmFoomrv/view?usp=sharing)
 
 The google drive contains all relevant files and data required for the project 
 
@@ -12,7 +12,8 @@ The google drive contains all relevant files and data required for the project
 
 *Predict next day Fan Engagement with a baseball player's digital content i.e. Social Media Engagement for players*
 
-## final report: 
+## report: 
+A report written on the findings gained from the project
 
 
 ## Files 
