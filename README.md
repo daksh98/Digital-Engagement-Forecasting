@@ -13,7 +13,7 @@ The google drive contains all relevant files and data required for the project
 *Predict next day Fan Engagement with a baseball player's digital content i.e. Social Media Engagement for players*
 
 ## report: 
-A report written on the findings gained from the project
+A short report written on the findings gained from the project
 
 
 ## Files 
