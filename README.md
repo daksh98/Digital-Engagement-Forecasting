@@ -14,11 +14,4 @@ The google drive contains all relevant files and data required for the project
 
 
 
-## Files 
-  - ARNN model is contained in : AutoRegressiveNN.ipynb
-  - Some data exploratory plots and heatmaps are contained in: heatmaps.ipynb
-   
-  - Data zip folders: all data need for each model is contained within thier zip files
-    - ARNN-data.zip - contains data for the ARNN model 
-    - heat-maps-data.zip - contains data required for all heat maps 
   
